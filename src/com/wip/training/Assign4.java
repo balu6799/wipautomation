@@ -51,7 +51,7 @@ public class Assign4 {
 
         }
 
-        // Copy to new array from the end
+       
         int[] revArrayCopy = new int[numbers.length];
 
         System.out.print("\nReverse copy of numbers array ");
